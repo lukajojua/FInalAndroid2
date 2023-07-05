@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">FInal</string>
     <string name="select_image">select image</string>
+    <string name="take_pricutre">take picture</string>
     <string name="predict">predict</string>
     <string name="prediction">prediction</string>
 </resources>
